@@ -1,6 +1,6 @@
-# file-drop
+# files-drop
 
-The file drop element is a simple Custom Element that accepts `File` objects being
+The files drop element is a simple Custom Element that accepts `File` objects being
 dropped on it and fires a dedicated event `onfiledrop` when a successful drop occurs.
 
 ## Installation

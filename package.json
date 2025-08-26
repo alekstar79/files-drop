@@ -1,9 +1,9 @@
 {
   "name": "@alekstar79/files-drop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "author": "alekstar79 <alekstar79@yandex.ru>",
-  "description": "File Drop Element",
+  "description": "Files Drop Element",
   "license": "MIT",
   "source": "lib/filesdrop.ts",
   "main": "dist/filesdrop.js",
