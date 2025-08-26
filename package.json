@@ -28,7 +28,7 @@
     "serve": "serve -l tcp:0.0.0.0:8080 .",
     "clean": "rm dist/*",
     "dev": "microbundle watch",
-    "lint": "tslint -c tslint.json -t verbose 'src/**/*.{ts,js}'"
+    "lint": "tslint -c tslint.json -t verbose 'lib/**/*.{ts,js}'"
   },
   "devDependencies": {
     "@types/node": "^24.3.0",
