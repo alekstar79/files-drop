@@ -1,0 +1,17 @@
+{
+  "compileOnSave": false,
+  "files": [
+    "lib/filesdrop.ts"
+  ],
+  "compilerOptions": {
+    "strict": true,
+    "declaration": true,
+    "target": "es2017",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "sourceMap": true,
+    "allowJs": false,
+    "baseUrl": "."
+  }
+}

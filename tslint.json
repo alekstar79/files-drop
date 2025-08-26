@@ -1,0 +1,15 @@
+{
+  "extends": [],
+  "rules": {
+    "function-name": false,
+    "variable-name": [true, "check-format", "allow-leading-underscore"],
+    "no-duplicate-imports": false,
+    "prefer-template": [true, "allow-single-concat"],
+    "import-name": false
+  },
+  "linterOptions": {
+    "exclude": [
+      "build"
+    ]
+  }
+}
