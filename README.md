@@ -1,4 +1,4 @@
-# files-drop
+# files-drop <img src="ts.svg" width="25px"> [![npm](https://img.shields.io/npm/v/@alekstar79/files-drop.svg)](https://www.npmjs.com/package/@alekstar79/files-drop) [![GitHub repo](https://img.shields.io/badge/github-repo-green.svg?style=flat)](https://github.com/alekstar79/files-drop)
 
 The files drop element is a simple Custom Element that accepts `File` objects being
 dropped on it and fires a dedicated event `onfiledrop` when a successful drop occurs.
