@@ -5,7 +5,7 @@ dropped on it and fires a dedicated event `onfiledrop` when a successful drop oc
 
 ## Installation
 
-`npm i file-drop-element`
+`npm i @alekstar79/files-drop`
 
 ## Usage
 
@@ -14,7 +14,7 @@ dropped on it and fires a dedicated event `onfiledrop` when a successful drop oc
 Copy from `node_modules` in to a local directory.
 
 ```HTML
-<script src='file-drop.mjs' type='module'></script>
+<script src='filesdrop.mjs' type='module'></script>
 
 <file-drop>
   Drop file here
@@ -24,7 +24,7 @@ Copy from `node_modules` in to a local directory.
 ### Directly as a UMD, for non-ES6 Module supporting browsers
 
 ```HTML
-<script src='file-drop.umd.js'></script>
+<script src='filesdrop.umd.js'></script>
 
 <file-drop>
   Drop file here
